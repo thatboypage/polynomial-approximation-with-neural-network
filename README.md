@@ -76,7 +76,7 @@ f(x) = x³ - 3x² + 2x + 1
 
 ## 📝 **Example Output Plot**
 
-![Output Plot](<img width="853" height="547" alt="image" src="https://github.com/user-attachments/assets/b6666375-cbbd-467b-8448-08027e7d79e2" />)
+![<img width="853" height="547" alt="image" src="https://github.com/user-attachments/assets/8d9e8893-1973-4987-a2c3-527400c4d1fc" />]
 
 ---
 
