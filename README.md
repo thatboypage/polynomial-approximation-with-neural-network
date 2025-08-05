@@ -74,12 +74,6 @@ f(x) = x³ - 3x² + 2x + 1
 
 ---
 
-## 📝 **Example Output Plot**
-
-![<img width="853" height="547" alt="image" src="https://github.com/user-attachments/assets/8d9e8893-1973-4987-a2c3-527400c4d1fc" />]
-
----
-
 ## 📚 **Skills & Concepts Demonstrated**
 
 * Function Approximation using Neural Networks
