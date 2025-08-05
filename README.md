@@ -95,7 +95,6 @@ f(x) = x³ - 3x² + 2x + 1
 
 ## 📎 **Requirements**
 
-* Python 3.x
 * torch
 * numpy
 * matplotlib
